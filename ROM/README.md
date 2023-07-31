@@ -1,0 +1,4 @@
+Binary dump of Fanuc PPR ROM.
+CPU: 8031AH
+ROM: 6274
+VERSION: E03G08H
