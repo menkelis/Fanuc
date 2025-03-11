@@ -1,0 +1,1 @@
+The X3G file was sliced for output to STL for FlashForge Creator Pro 3D printer.
